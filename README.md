@@ -35,7 +35,7 @@
 ## MEMBERS
 - Estefany Azocar @[EstefaniAzocar](https://github.com/EstefaniAzocar)
     -  _(SIMPLON - Colombia)_
-       -  _(Front-end)_
+       -  _(Back-end Leader)_
 - Santiago López Bernal @[santilopezco](https://github.com/santilopezco)
     -  _(SIMPLON - Colombia)_
        -  _(Front-end|SCRUM Master)_
