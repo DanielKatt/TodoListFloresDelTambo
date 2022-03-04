@@ -44,7 +44,7 @@
        -  _(Front-end|Back-end)_
 - Daniel Pinzón @[DanielKatt](https://github.com/DanielKatt)
     -  _(SIMPLON - Colombia)_
-       -  _(UX Design|Front-end)_
+       -  _(UX Design|Back-end)_
 - Lizette Sevillano @[LizzieSevC](https://github.com/LizzieSevC)
     -  _(SIMPLON - Colombia)_
        -  _(UX Design|Front-end)_
